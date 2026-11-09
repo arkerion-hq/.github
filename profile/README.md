@@ -1,11 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/arkerion-logo-blanc.svg">
-  <img src="assets/arkerion-logo-noir.svg" alt="Arkerion" width="300">
+  <img src="assets/arkerion-banner-ondes.png" alt="Arkerion" >
 </picture>
-
-<br><br>
 
 **Développement web et logiciel.**
 
